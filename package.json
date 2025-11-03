@@ -12,5 +12,10 @@
     "@astrojs/mdx": "^4.3.9",
     "@astrojs/react": "^4.4.1",
     "astro": "^5.15.3"
+  },
+  "devDependencies": {
+    "@types/node": "^24.10.0",
+    "prettier": "^3.6.2",
+    "typescript": "^5.9.3"
   }
 }
